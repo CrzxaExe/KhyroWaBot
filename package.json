@@ -3,9 +3,6 @@
   "version": "1.12-beta",
   "description": "Wa Bot for easier your life",
   "main": "index.js",
-  "engines": {
-    "ffmpeg"; "5.1.1"
-  } 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
