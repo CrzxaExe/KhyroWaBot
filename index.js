@@ -39,10 +39,10 @@ async function connectWa () {
 
   const prefix = "+";
 
-  //console.log(messages[0])
+  console.log(messages[0])
 
   let msg = messages[0];
-  if(msg.key.remoteJid == "status@broadcast" || msg.key.fromMe || msg.message.audioMessage || msg.message.stickerMessage || msg.message.protocolMessage) return
+  if(msg.key.remoteJid == "status@broadcast" || msg.key.fromMe || msg.messageStubParameters || msg.message.audioMessage || msg.message.audioMessage || msg.message.stickerMessage || msg.message.protocolMessage) return
   const sender = msg.key.remoteJid;
   let id = msg.key.participant;
   if (!id) id = sender;
@@ -68,7 +68,7 @@ async function connectWa () {
   if(cmd.split("")[0] === prefix) {
    let txt = cmd.substring(1);
    let args = txt.split(" ");
-   console.log(args[0])
+   //console.log(args[0])
 
    let responseList = msg.message.listResponseMessage;
 
