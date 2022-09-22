@@ -1,0 +1,94 @@
+{
+ "welcome": "",
+ "fb": "https://www.facebook.com/crzx.zxra",
+ "github": "https://github.com/CrzxaExe",
+ "menu": "┎━━━━━━*******Khyro Bot******\n┟  Bot menu\n╽  %d\n┟  Command Prefix: +\n╽\n┟━━━━Daftar Command:%s\n┕━━━━━━━━━━━━━━━━━━━━『v%a』",
+ "cmd": [
+  {
+   "Info": [
+    "bot",
+    "info",
+    "jadwal",
+    "menu",
+    "profile"
+   ]
+  },
+  {
+   "Tools": [
+    "brainly",
+    "reminder",
+    "rng(Random Number Generator)",
+    "stiker"
+   ]
+  }
+ ],
+ "jadwal": {
+  "mipa4": {
+   "0": [
+    "Libur"
+   ],
+   "1": [
+    "Upacara JK 1",
+    "Kimia JK 2",
+    "Kimia Jak 3",
+    "Mtkw JK 4",
+    "Mtkw JK 5",
+    "Geo LM JK 6",
+    "Geo LM JK 7",
+    "Fisika JK 8",
+    "Fisika JK 9"
+   ],
+   "2": [
+    "Geo LM JK 1",
+    "Geo LM JK 2",
+    "Biologi JK 3",
+    "Biologi JK 4",
+    "Pkwu JK 5",
+    "Pkwu JK 6",
+    "Mtkw JK 7",
+    "Mtkw JK 8",
+    "BIngg JK 9",
+    "Bingg JK 10"
+   ],
+   "3": [
+    "Mtkp JK 1",
+    "Mtkp JK 2",
+    "Fisika JK 3",
+    "Fisika JK 4",
+    "BIndo JK 5",
+    "BIndo JK 6",
+    "Sejw Jk 7",
+    "Sejw JK 8",
+    "Ppkn JK 9",
+    "Ppkn JK 10"
+   ],
+   "4": [
+    "Biologi JK 1",
+    "Biologi JK 2",
+    "Mtkp JK 3",
+    "Mtkp JK 4",
+    "Seni JK 5",
+    "Seni JK 6",
+    "BIndo JK 7",
+    "Bindo JK 8",
+    "Kimia JK 9",
+    "Kimia JK 10"
+   ],
+   "5": [
+    "PAI JK 1",
+    "PAI JK 2",
+    "PAI JK 3",
+    "Pjok JK 4",
+    "Pjok JK 5",
+    "Pjok JK 6",
+    "BJawa JK 7",
+    "BJawa JK 8"
+   ],
+   "6": [
+    "Libur"
+   ]
+  },
+  "mipa3": {
+  }
+ }
+}
